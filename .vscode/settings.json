@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.base.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.controls.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.media.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.swing.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx.web.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\javafx-swt.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\jdk.jsobject.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\jfx.incubator.input.jar",
+        "c:\\Oracle_JDK-24\\javafx-sdk-25.0.1\\lib\\jfx.incubator.richtext.jar"
+    ]
+}
