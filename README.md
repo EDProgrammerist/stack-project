@@ -1,18 +1,41 @@
-## Getting Started
+# stack-project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+DSA
 
-## Folder Structure
+![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white) 
 
-The workspace contains two folders by default, where:
+![Stars](https://img.shields.io/github/stars/EDProgrammerist/stack-project?style=flat-square&logo=github) ![Forks](https://img.shields.io/github/forks/EDProgrammerist/stack-project?style=flat-square&logo=github) 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Overview
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+This project is maintained by [EDProgrammerist](https://github.com/EDProgrammerist).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Technologies
 
-## Dependency Management
+This project uses the following technologies:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/EDProgrammerist/stack-project.git
+
+# Navigate to the project directory
+cd stack-project
+```
+
+## Usage
+
+Please refer to the documentation for detailed usage instructions.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Links
+
+- [Repository](https://github.com/EDProgrammerist/stack-project)
+- Stars: 0
+- Forks: 0
