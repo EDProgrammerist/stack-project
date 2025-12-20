@@ -1,6 +1,6 @@
 # stack-project
 
-DSA
+![stack](https://github.com/EDProgrammerist/stack-project/blob/master/Preview.png?raw=true)
 
 ![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white) 
 
